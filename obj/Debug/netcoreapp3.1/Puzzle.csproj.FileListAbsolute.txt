@@ -1,0 +1,13 @@
+C:\Users\brose\Documents\CodingDojo\CourseWork\C#\LanguageFundamentals\LanguageEssentials\Puzzle\bin\Debug\netcoreapp3.1\Puzzle.exe
+C:\Users\brose\Documents\CodingDojo\CourseWork\C#\LanguageFundamentals\LanguageEssentials\Puzzle\bin\Debug\netcoreapp3.1\Puzzle.deps.json
+C:\Users\brose\Documents\CodingDojo\CourseWork\C#\LanguageFundamentals\LanguageEssentials\Puzzle\bin\Debug\netcoreapp3.1\Puzzle.runtimeconfig.json
+C:\Users\brose\Documents\CodingDojo\CourseWork\C#\LanguageFundamentals\LanguageEssentials\Puzzle\bin\Debug\netcoreapp3.1\Puzzle.runtimeconfig.dev.json
+C:\Users\brose\Documents\CodingDojo\CourseWork\C#\LanguageFundamentals\LanguageEssentials\Puzzle\bin\Debug\netcoreapp3.1\Puzzle.dll
+C:\Users\brose\Documents\CodingDojo\CourseWork\C#\LanguageFundamentals\LanguageEssentials\Puzzle\bin\Debug\netcoreapp3.1\Puzzle.pdb
+C:\Users\brose\Documents\CodingDojo\CourseWork\C#\LanguageFundamentals\LanguageEssentials\Puzzle\obj\Debug\netcoreapp3.1\Puzzle.csprojAssemblyReference.cache
+C:\Users\brose\Documents\CodingDojo\CourseWork\C#\LanguageFundamentals\LanguageEssentials\Puzzle\obj\Debug\netcoreapp3.1\Puzzle.AssemblyInfoInputs.cache
+C:\Users\brose\Documents\CodingDojo\CourseWork\C#\LanguageFundamentals\LanguageEssentials\Puzzle\obj\Debug\netcoreapp3.1\Puzzle.AssemblyInfo.cs
+C:\Users\brose\Documents\CodingDojo\CourseWork\C#\LanguageFundamentals\LanguageEssentials\Puzzle\obj\Debug\netcoreapp3.1\Puzzle.csproj.CoreCompileInputs.cache
+C:\Users\brose\Documents\CodingDojo\CourseWork\C#\LanguageFundamentals\LanguageEssentials\Puzzle\obj\Debug\netcoreapp3.1\Puzzle.dll
+C:\Users\brose\Documents\CodingDojo\CourseWork\C#\LanguageFundamentals\LanguageEssentials\Puzzle\obj\Debug\netcoreapp3.1\Puzzle.pdb
+C:\Users\brose\Documents\CodingDojo\CourseWork\C#\LanguageFundamentals\LanguageEssentials\Puzzle\obj\Debug\netcoreapp3.1\Puzzle.genruntimeconfig.cache
